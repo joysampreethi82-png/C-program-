@@ -1,4 +1,4 @@
-# Hi 👋, I'm Your Name
+# Hi 👋, I'm Your Sam
 
 I am a beginner in programming and currently learning **C language and problem solving**.  
 I enjoy building small programs and improving my coding skills step by step.
